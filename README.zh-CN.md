@@ -81,6 +81,7 @@
 - **[Warp](https://www.warp.dev/)** - AI终端
 - **[Wave](https://www.waveterm.dev/)** - 将上下文引入终端，停止上下文切换
 - **[Tabby](https://tabby.sh/)** - 现代化的终端
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - 本地 TUI，用于查看 AI 编码智能体会话的成本、token、延迟、失败和健康度
 
 ### AI软件工程师
 

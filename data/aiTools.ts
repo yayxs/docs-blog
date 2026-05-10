@@ -276,6 +276,14 @@ export interface AiTool {
       howToUseType: 'Terminal',
       outputType: 'Terminal',
     },
+    {
+      whatsTheName: 'Agenttrace',
+      urlLink: 'https://github.com/luoyuctl/agenttrace',
+      description: 'Local TUI for reviewing AI coding agent session cost, tokens, latency, failures, and health',
+      company: '',
+      howToUseType: 'Terminal',
+      outputType: 'Terminal',
+    },
     // AI 软件工程师 (AI software engineer)
     {
       whatsTheName: 'MetaGPT',

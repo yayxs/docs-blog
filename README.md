@@ -74,6 +74,7 @@ AI enhancements for command-line interfaces:
 - **[Warp](https://www.warp.dev/)** - AI Terminal
 - **[Wave](https://www.waveterm.dev/)** - Stop context switching by bringing context into your terminal
 - **[Tabby](https://tabby.sh/)** - A terminal for the modern age
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local TUI for reviewing AI coding agent session cost, tokens, latency, failures, and health
 
 ### AI Software Engineers
 
