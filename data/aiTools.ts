@@ -221,6 +221,14 @@ export interface AiTool {
       howToUseType: 'Browser-based',
     },
     {
+      whatsTheName: 'Roblox GUI Maker',
+      urlLink: 'https://robloxguimaker.dev/',
+      description: 'Generate Roblox Studio GUI layouts and Lua starter code from prompts',
+      company: '',
+      howToUseType: 'Browser-based',
+      outputType: 'FrontEndComponent',
+    },
+    {
       whatsTheName: 'Project IDX',
       urlLink: 'https://idx.dev/',
       description: 'Project IDX is an AI-assisted workspace. by Google',
