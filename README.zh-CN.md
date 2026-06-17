@@ -66,6 +66,7 @@
 - **[Sitebrew.ai](https://www.sitebrew.ai/)** - 几秒钟内生成并分享网站
 - **[MarsCode](https://www.marscode.com/)** - 1.0 + 云IDE（字节跳动）
 - **[Replit](https://replit.com/)** - 创建美观、现代的Web应用
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)** - 从提示词生成 Roblox Studio GUI 布局和 Lua 起始代码
 - **[Project IDX](https://idx.dev/)** - 谷歌出品的AI辅助工作空间
 - **[CodeGuide](https://www.codeguide.dev/)** - AI驱动的文档生成器
 - **[Rork](https://rork.app/)** - 快速构建任何移动应用

@@ -59,6 +59,7 @@ Web-based coding platforms with AI capabilities:
 - **[Sitebrew.ai](https://www.sitebrew.ai/)** - Generate and share websites in seconds
 - **[MarsCode](https://www.marscode.com/)** - 1.0 + Cloud IDE (ByteDance)
 - **[Replit](https://replit.com/)** - Create beautiful, modern web applications
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)** - Generate Roblox Studio GUI layouts and Lua starter code from prompts
 - **[Project IDX](https://idx.dev/)** - AI-assisted workspace by Google
 - **[CodeGuide](https://www.codeguide.dev/)** - AI-powered documentation generator
 - **[Rork](https://rork.app/)** - Build any mobile app, fast
